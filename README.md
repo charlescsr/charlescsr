@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 * HTML
 
 * CSS (Dabbled in web development)
+
+So feel free to take a look around :grin: 
