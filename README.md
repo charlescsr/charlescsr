@@ -1,6 +1,6 @@
-## Hi there 👋 I am CSR
+## Hi 👋 I am Charles Samuel R
 
-### But most people call me Charles Samuel R
+### But most people call me CSR
 
 <!--
 **charlescsr/charlescsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
