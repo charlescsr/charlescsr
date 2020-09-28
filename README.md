@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## My languages
 
-* Jupyter Notebook(Python in that)
+* Jupyter Notebook
 
 * Python
 
