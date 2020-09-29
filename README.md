@@ -7,14 +7,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [img-renamer](https://github.com/charlescsr/img-renamer)
+<!--- 🔭 I’m currently working on [img-renamer](https://github.com/charlescsr/img-renamer)-->
 - 🌱 I’m currently learning Keras, Tensorflow
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
 - 💬 Ask me about Data Science, Data viz and so on
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/charliecsr15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="charlescsr" height="25" width="25" /></a>&nbsp; <a href="mailto:rcharles.samuel99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="charlescsr" height="25" width="25" /></a>
 - :house: Where else can you find my work: <a href="https://www.kaggle.com/charlessamuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="charlescsr" height="25" width="25" /></a>
-- 😄 Pronouns: Helpful, Energetic, Entusiastic
+- 😄 Pronouns: Helpful, Energetic, Enthusiastic
 <!--- ⚡ Fun fact: ...-->
 
 # My GitHub Journey
