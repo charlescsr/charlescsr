@@ -1,4 +1,4 @@
-## Hi 👋 I am Charles Samuel R
+## Hi 👋 <br><br> I am Charles Samuel R
 
 ### But most people call me CSR
 
