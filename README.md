@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at [TactLabs](https://github.com/tactlabs)
+- 🔭 I’m currently working on [img-renamer](https://github.com/charlescsr/img-renamer)
 - 🌱 I’m currently learning Keras, Tensorflow
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
