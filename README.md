@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [imgconvren](https://github.com/charlescsr/imgconvren)
-- 🌱 I’m currently learning Keras, Tensorflow
+- 🌱 I’m currently learning [PyTorch](https://github.com/pytorch/pytorch)
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
 - 💬 Ask me about Data Science, Data viz and so on
