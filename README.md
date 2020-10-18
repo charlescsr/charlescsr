@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-<!--- 🔭 I’m currently working on Neural Networks with PyTorch-->
+- 🔭 I’m currently working on Binary Classifiers using PyTorch
 - 🌱 I’m currently learning [PyTorch](https://github.com/pytorch/pytorch)
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
