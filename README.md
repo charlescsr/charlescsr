@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Dash
+- 🔭 I’m currently working on [Dash](https://github.com/plotly/dash)
 - 🌱 I’m currently learning [PyTorch](https://github.com/pytorch/pytorch)
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
