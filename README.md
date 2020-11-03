@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning [Dash](https://github.com/plotly/dash), [PyTorch](https://github.com/pytorch/pytorch)
+- 🌱 I’m currently learning [Dash](https://github.com/plotly/dash)<!--, [PyTorch](https://github.com/pytorch/pytorch)-->
 - 👯 I’m looking to collaborate on packages that help Pythoners
 - 🤔 I’m looking for help with Neural Networks 
 - 💬 Ask me about Data Science, Data viz and so on
