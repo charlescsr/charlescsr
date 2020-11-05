@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlescsr&show_icons=true&include_all_commits=false&hide_border=true&theme=radical&count_private=true" alt="charlescsr" />
 </p>
 <p> <br><br><br><br><br><br>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=charlescsr&show_icons=true&theme=radical" alt="charlescsr" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescsr&layout=compact&theme=radical" />
 </p>
 
 ## My languages
