@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/charliecsr15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="charlescsr" height="25" width="25" /></a>&nbsp; <a href="mailto:rcharles.samuel99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="charlescsr" height="25" width="25" /></a>
 - :house: Where else can you find my work: <a href="https://www.kaggle.com/charlessamuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="charlescsr" height="25" width="25" /></a>
 <a href="https://csr15.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="charlescsr" height="25" width="25" /></a>
-- 😄 Pronouns: Helpful, Energetic, Enthusiastic, Learner
+- 😄 Pronouns: Helpful, Energetic, Enthusiastic
 - ⚡ Fun fact: I am unable to control myself when I see a football :sweat_smile:
 
 # My GitHub Journey
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <p> <br><br><br><br><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescsr&layout=compact&theme=dark" />
 </p>
+<br>
+
 
 ## My languages
 
@@ -37,5 +39,9 @@ Here are some ideas to get you started:
 * HTML
 
 * CSS (Dabbled in web development)
+
+## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlescsr&theme=dracula)](https://git.io/streak-stats)
 
 ## So feel free to take a look around :grin: 
