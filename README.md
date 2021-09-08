@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 
 * Python
 
-* HTML
+* Flask
 
-* CSS (Dabbled in web development)
+* Gradio
+
+* Dash 
 
 ## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
 
