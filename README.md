@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## My languages
+## What I use
 
 * Jupyter Notebook
 
