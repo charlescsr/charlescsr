@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 * Flask
 
-* Gradio
-
-* Dash 
+* Streamlit
 
 ## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
 
